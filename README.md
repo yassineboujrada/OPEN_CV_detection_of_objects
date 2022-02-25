@@ -1,0 +1,1 @@
+# OPEN_CV_detection_of_objects
